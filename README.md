@@ -7,11 +7,11 @@
 ---
 ### One variable examined was success of a theater campagin versus time.
 ---
-![Total Theater Cases](\theaterhisto.PNG)
+![Total Theater Cases](theaterhisto.PNG)
 ---
     Overall, theater campaigns were very popular, with 912 of them being conducted within the data.  525 were successful.  These included campaigns for plays, musicals, and theater spaces.  This data confirmed to us that Kickstarter was a viable method for raising money in the theater industry.
 ---
-![Outcomes by Starting Month](\OutcomeTimeChart.PNG)
+![Outcomes by Starting Month](OutcomeTimeChart.PNG)
 ---
     It is clear that theater campaigns are most successful with start dates in May, followed by June.  This is a traditional timing of spring theater productions and is probably also related to these months being the start of predictably pleasant weather in many areas of the US, where the majority of these campaigns are conducted, greatly assisting the success of any outdoor programs.  As Louise's production will be in the US we strongly suggest that she begin her campaign in May.
 ---
@@ -25,6 +25,6 @@
 ---
     Louise has a future goal to put on a musical in the UK for about $4,000.
 ---
-![MusicalsGoalsPledged](\MusicalsGoalPledged.PNG)
+![MusicalsGoalsPledged](MusicalsGoalPledged.PNG)
 ---
     Given that the mean goal of musical campaigns in the UK is $4,060, Louise's goal of $4,000 at first appears in line with expectations.  However, as shown in the box and whisker plot, the mean and median of amounts pledged to campaigns for musicals in the UK are $1,047 and $387.  The upper quartile is $1,496 with an IQR outlier threshold of $3,015.  Realistically, raising $4,000 for one of these campaigns is very unlikely, and given that half of the campaigns received less than $400, it is possible the project should be reconsidered if costs cannot be significantly reduced.
